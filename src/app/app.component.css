@@ -1,0 +1,7 @@
+.container-fluid {
+    color: black;
+    border-radius: 25%;
+    text-align: center;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
